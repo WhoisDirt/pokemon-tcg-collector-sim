@@ -1,0 +1,5452 @@
+{
+"base1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"base2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"base3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"base4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"base5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"gym1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"gym2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"neo1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"neo2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"neo3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"neo4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"base6": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"ecard1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"ecard2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"ecard3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "vintage",
+"slots": [
+{
+"n": 1,
+"t": {
+"h": 0.34,
+"r": 0.66
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 6,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1,
+"c": 0.0
+}
+}
+]
+},
+"ex1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex6": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex7": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex8": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex9": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex10": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex11": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex12": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex13": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex14": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex15": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"ex16": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"dp1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"dp2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"dp3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"dp4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"dp5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"dp6": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"dp7": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"pl1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"pl2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"pl3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"pl4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"hgss1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"hgss2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"hgss3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"hgss4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"col1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw6": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"dv1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw7": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw8": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw9": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw10": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"bw11": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "classic",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.52,
+"h": 0.3,
+"dr": 0.1,
+"ur": 0.045,
+"hr": 0.02,
+"sh": 0.015
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"xy0": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"dc1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy6": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy7": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy8": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy9": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"g1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy10": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy11": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"xy12": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm35": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm6": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm7": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm75": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm8": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm9": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm10": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm11": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm115": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sm12": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh35": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh45": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh6": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh7": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"cel25c": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"cel25": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh8": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh9": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh10": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"pgo": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh11": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh12": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"swsh12pt5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "mid",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.46,
+"h": 0.28,
+"dr": 0.14,
+"ur": 0.07,
+"hr": 0.025,
+"sh": 0.025
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 1
+}
+},
+{
+"n": 1,
+"t": {
+"e": 0.7,
+"c": 0.3
+}
+}
+]
+},
+"sv1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv3pt5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv4pt5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv6": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv6pt5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv7": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv8": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv8pt5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv9": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"sv10": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"zsv10pt5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"rsv10pt5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"me1": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"me2": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"me2pt5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"me3": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"me4": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"me5": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"me55": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"me55c": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+},
+"me6": {
+"source": "Era-template estimate from community aggregate pull-rate research (not official Pokemon Company data). Editable in data/odds.json.",
+"era": "modern",
+"slots": [
+{
+"n": 1,
+"t": {
+"r": 0.55,
+"dr": 0.17,
+"ur": 0.055,
+"sir": 0.012,
+"hr": 0.012,
+"h": 0.17,
+"ir": 0.0,
+"sh": 0.005
+}
+},
+{
+"n": 3,
+"t": {
+"u": 1
+}
+},
+{
+"n": 4,
+"t": {
+"c": 1
+}
+},
+{
+"n": 1,
+"t": {
+"rev": 0.8,
+"ir": 0.15,
+"sir": 0.0,
+"sh": 0.05
+}
+},
+{
+"n": 1,
+"t": {
+"e": 1
+}
+}
+]
+}
+}
