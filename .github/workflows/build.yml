@@ -1,0 +1,93 @@
+name: Build desktop apps
+on:
+  push:
+    paths:
+      - "source*.zip"
+      - ".github/workflows/build.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    outputs:
+      ref: ${{ steps.commit.outputs.ref }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unzip source and commit unpacked project
+        id: commit
+        run: |
+          if ls source*.zip >/dev/null 2>&1; then
+            for z in source*.zip; do unzip -q -o "$z"; rm "$z"; done
+            git config user.name "build-bot"
+            git config user.email "build-bot@users.noreply.github.com"
+            git add -A
+            git commit -m "Unpack project source" || true
+            git push || true
+          fi
+          echo "ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  build:
+    needs: unpack
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: windows-latest
+            label: windows
+            args: "--bundles nsis"
+          - os: macos-latest
+            label: macos
+            args: "--target universal-apple-darwin --bundles app,dmg"
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.unpack.outputs.ref }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: ${{ matrix.label == 'macos' && 'aarch64-apple-darwin,x86_64-apple-darwin' || '' }}
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: "src-tauri -> target"
+      - run: npm install --no-audit --no-fund
+      - name: Generate icons
+        run: npx tauri icon app-icon.png
+      - run: npm test
+      - run: npx tsc --noEmit
+      - name: Rust unit tests
+        working-directory: src-tauri
+        run: cargo test --lib
+      - name: Build installers
+        run: npx tauri build ${{ matrix.args }}
+      - name: List bundles
+        shell: bash
+        run: find src-tauri/target -path "*release/bundle*" -type f \( -name "*.exe" -o -name "*.dmg" \) -print
+      - uses: actions/upload-artifact@v4
+        with:
+          name: installer-${{ matrix.label }}
+          path: |
+            src-tauri/target/release/bundle/nsis/*.exe
+            src-tauri/target/universal-apple-darwin/release/bundle/dmg/*.dmg
+          if-no-files-found: error
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: dist-installers
+      - run: find dist-installers -type f
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0.${{ github.run_number }}
+          name: Pokemon TCG Collector Sim v1.0.${{ github.run_number }}
+          files: dist-installers/**/*
+          body: "Unsigned builds. Windows: SmartScreen > More info > Run anyway. macOS: right-click > Open (see README)."
